@@ -81,13 +81,9 @@
 		42C5968D1A0C6503009BF0AD /* JZPhotoBrowser */ = {
 			isa = PBXGroup;
 			children = (
-				42C596921A0C6503009BF0AD /* AppDelegate.h */,
-				42C596931A0C6503009BF0AD /* AppDelegate.m */,
 				42C596951A0C6503009BF0AD /* ViewController.h */,
 				42C596961A0C6503009BF0AD /* ViewController.m */,
-				42C596981A0C6503009BF0AD /* Main.storyboard */,
 				42C5969B1A0C6503009BF0AD /* Images.xcassets */,
-				42C5969D1A0C6503009BF0AD /* LaunchScreen.xib */,
 				42C5968E1A0C6503009BF0AD /* Supporting Files */,
 			);
 			path = JZPhotoBrowser;
@@ -96,6 +92,10 @@
 		42C5968E1A0C6503009BF0AD /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				42C596921A0C6503009BF0AD /* AppDelegate.h */,
+				42C596931A0C6503009BF0AD /* AppDelegate.m */,
+				42C596981A0C6503009BF0AD /* Main.storyboard */,
+				42C5969D1A0C6503009BF0AD /* LaunchScreen.xib */,
 				42C5968F1A0C6503009BF0AD /* Info.plist */,
 				42C596901A0C6503009BF0AD /* main.m */,
 			);
